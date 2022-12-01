@@ -27,6 +27,9 @@ body{
     font-size: 5rem;
     padding: 0rem 0;
 }
+#head span{
+    text-transform: none;
+}
 #motto{
     color:white;
     font-style: italic;
@@ -36,4 +39,9 @@ body{
 p{
     color:white;
     line-height: 1.7;
+}
+p.mone{
+    font-style:bold;
+    font-style: italic;
+    color:#eb7928;
 }
